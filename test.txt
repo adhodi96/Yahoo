@@ -1,0 +1,6 @@
+1. Project created using Java-Maven
+2. All dependecies added in pom.xml to run on independent machines.
+3. BDD framework has been used to understand flow.
+4. TDD is used to read mail ids from excel
+5. Multiple sender and reciver can be added in order to use for future.
+6. Extent reporting has been added to view the report of each step
